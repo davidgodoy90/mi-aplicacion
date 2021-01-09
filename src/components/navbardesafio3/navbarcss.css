@@ -1,0 +1,22 @@
+.barrastyle { 
+
+
+    width: 100%;
+    height: 90px;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.listaStyle {
+
+
+display: flex;
+flex-direction: row;
+color: white;
+justify-content: space-evenly;
+list-style: none;
+
+}

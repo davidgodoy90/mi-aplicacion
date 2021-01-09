@@ -24,6 +24,27 @@
   color: white;
 }
 
+
+.links {
+
+
+  color: inherit;
+  
+  }
+
+.links:hover {
+
+    text-decoration: none ;
+    color:black;
+    
+    }
+  
+ .activeLink {
+
+  color:olive;
+
+  }
+
 .App-link {
   color: #61dafb;
 }
